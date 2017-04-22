@@ -1,7 +1,11 @@
 Rails.application.routes.draw do
   get 'users/new'
 
+ #get 'user/new'
+
 #SampleApp::Application.routes.draw do 
+
+  #get 'users/new'
 
   #get 'users/new'
 
